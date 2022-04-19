@@ -1,4 +1,4 @@
-# AES implementations
+# Agile-AES
 Flexible AES 128, 192, and 256 implementations in Python, C++, Vivado HLS, Chisel and PyRTL, and Verilog
 
 ## Goals of this work:
