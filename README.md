@@ -3,7 +3,7 @@ Flexible AES 128, 192, and 256 implementations in Python, C++, Vivado HLS, Chise
 
 ## Please cite the following paper
 
-X. Guo, M. El-Hadedy, S. Mosanu, X. Wei, K. Skadron, M. Stan, “Agile-AES: Implementation of Configurable AES Primitive with Agile Design Approach”, Integration, the VLSI Journal, 2022. (https://www.sciencedirect.com/science/article/pii/S0167926022000426)
+X. Guo, M. El-Hadedy, S. Mosanu, X. Wei, K. Skadron, M. Stan, “Agile-AES: Implementation of Configurable AES Primitive with Agile Design Approach”, _Integration, the VLSI Journal,_ 2022. (https://www.sciencedirect.com/science/article/pii/S0167926022000426)
 
 @article{guo2022agile,
 	  title={Agile-AES: Implementation of configurable AES primitive with agile design approach},
