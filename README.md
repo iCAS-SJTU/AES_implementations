@@ -1,17 +1,19 @@
 # Agile-AES
 Flexible AES 128, 192, and 256 implementations in Python, C++, Vivado HLS, Chisel and PyRTL, and Verilog
 
-## Please cite the following paper
+## How to cite
+
+If you use this code, please cite:
 
 X. Guo, M. El-Hadedy, S. Mosanu, X. Wei, K. Skadron, M. Stan, “Agile-AES: Implementation of Configurable AES Primitive with Agile Design Approach”, _Integration, the VLSI Journal,_ 2022. (https://www.sciencedirect.com/science/article/pii/S0167926022000426)
 
-@article{guo2022agile,
-	  title={Agile-AES: Implementation of configurable AES primitive with agile design approach},
-	  author={Guo, Xinfei and El-Hadedy, Mohamed and Mosanu, Sergiu and Wei, Xiangdong and Skadron, Kevin and Stan, Mircea R},
-	  journal={Integration},
-	  year={2022},
-	  publisher={Elsevier}
-}
+    @article{guo2022agile,
+    	  title={Agile-AES: Implementation of configurable AES primitive with agile design approach},
+    	  author={Guo, Xinfei and El-Hadedy, Mohamed and Mosanu, Sergiu and Wei, Xiangdong and Skadron, Kevin and Stan, Mircea R},
+    	  journal={Integration},
+    	  year={2022},
+    	  publisher={Elsevier}
+    }
 
 ## Goals of this work:
 - provide a Python and C/C++ implementation - OK
